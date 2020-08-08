@@ -34,9 +34,11 @@ public class UserListSort {
         /** Method : 2 lambda-expression */
         Collections.sort(userList, (u1, u2) -> u1.getName().compareToIgnoreCase(u2.getName()));
         
-        for(User user : userList) {
-            System.out.println(user.toString());
-        }
+//        for(User user : userList) {
+//            System.out.println(user.toString());
+//        }
+        /** for-each loop */
+        userList.forEach(user -> System.out.println(user.toString()));
     
     }
 }
