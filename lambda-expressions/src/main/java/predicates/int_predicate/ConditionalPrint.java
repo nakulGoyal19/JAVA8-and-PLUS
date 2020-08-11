@@ -1,4 +1,4 @@
-package main.java.predicates.int_predicate;
+package predicates.int_predicate;
 
 import java.util.function.IntPredicate;
 import java.util.function.LongPredicate;

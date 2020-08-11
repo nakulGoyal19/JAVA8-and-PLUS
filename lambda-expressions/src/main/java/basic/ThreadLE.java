@@ -1,4 +1,4 @@
-package lambda.expression;
+package basic;
 
 /**
  * @author nakulgoyal

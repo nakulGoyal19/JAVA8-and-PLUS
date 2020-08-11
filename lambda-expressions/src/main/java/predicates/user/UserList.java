@@ -1,10 +1,8 @@
-package main.java.predicates.user;
+package predicates.user;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
-
-import main.java.predicates.user.User;
 
 /**
  * @author nakulgoyal
